@@ -1,6 +1,0 @@
-python version 10
-flask
-pandas
-matplotlib
-seaborn
-sklearn
